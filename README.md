@@ -1,2 +1,2 @@
 # Knight24h7
-A platform game for iOS and Android
+A platform game for Windows
